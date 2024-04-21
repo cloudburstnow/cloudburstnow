@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a MSc Data and Decision Analytics graduate from the University of Southampton.
 
 <!--
 **cloudburstnow/cloudburstnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
